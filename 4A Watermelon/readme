@@ -1,3 +1,8 @@
 You have to find such number which can be divided (not equal) into two even numbers.
 Any ODD number cannot be divide in such way.
 2 also cannot be divide according to the condition. 
+Example:
+10 = 4 + 6
+6 = 2 + 4
+2 = 1 + 1
+5 = 1 + 4
