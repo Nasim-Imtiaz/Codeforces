@@ -1,0 +1,4 @@
+First we have to find how many flagstones we need to pave height & weight.
+If flagstone size is greater than height or weight then mod result will be increased by 1.
+Then multiply the two mode result.
+Note that, though the limit for m,n & a is in integer limit we have to multiply to we must need to use long long to get the accurate result.
